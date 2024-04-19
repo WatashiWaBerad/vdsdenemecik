@@ -1,4 +1,4 @@
-name: Windows - RIperius Remote
+name: Windows - Iperius Remote
 
 on:
   workflow_dispatch:
